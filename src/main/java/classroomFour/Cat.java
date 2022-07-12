@@ -1,8 +1,8 @@
 package classroomFour;
 
-public class Cat extends Animal{
+public class Cat extends Animal { //mantosana
 
-    public void izdodSkanu() {
+    public void izdodSkanu() { //override
         System.out.println("Mjauuuu");
     }
 }
